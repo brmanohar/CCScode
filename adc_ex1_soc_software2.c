@@ -13,11 +13,11 @@
 //! The ADCD will not convert until ADCA is complete, so the ADCs will not run
 //! asynchronously. However, this is much less efficient than allowing the ADCs
 //! to convert synchronously in parallel (for example, by using an ePWM 
-//! trigger).
-//!
+//! trigger).sedfs
+//!sf
 //! \b External \b Connections \n
-//!  - A0, A1, D2, and D3 should be connected to signals to convert
-//!
+//!  - A0, A1, Da2, and D3 should be connected to signals to convert
+//!ssfdefe
 //! \b Watch \b Variables \n
 //! - \b adcAResult0 - Digital representation of the voltage on pin A0
 //! - \b adcAResult1 - Digital representation of the voltage on pin A1
